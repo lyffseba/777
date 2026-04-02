@@ -1,0 +1,11 @@
+# Environments
+.pixi/
+.venv/
+max_env/
+
+# Mac/OS
+.DS_Store
+
+# Mojo/Python
+__pycache__/
+*.pyc
