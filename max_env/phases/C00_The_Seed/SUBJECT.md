@@ -2,7 +2,12 @@
 
 *“You must understand the soil before you can grow the tree.”*
 
-Summary: This document is the first module of the Ents AI Piscine. You will discover the basic building blocks of AI inference: Tensors, Embeddings, and Graph Compilation.
+Summary: This document is the first module of the 44 AI Piscine. You will discover the basic building blocks of AI inference: Tensors, Embeddings, and Graph Compilation.
+
+**If you have never coded AI before:**
+Do not panic. A "Tensor" is just a grid of numbers (like an Excel spreadsheet). An "Embedding" is just a lookup table that turns a word (like "apple") into a row of numbers so the computer can do math on it. 
+
+Your goal in this module is simple: find the row of numbers for Token ID `2`.
 
 ## General Rules
 *   Your exercises must be done in the exact directories specified.

@@ -4,6 +4,9 @@
 
 Summary: In this module, you will build a Bigram Language Model. You will learn about Logits, Softmax, and probabilities.
 
+**If you have never coded AI before:**
+When an AI tries to guess the next word, it spits out raw, messy scores called "Logits" (e.g., `[-1.0, 5.0]`). A higher score means it likes that word more. To turn these messy scores into clean percentages (like `1%` and `99%`), we use a math function called **Softmax**. Your job is to build that math function.
+
 ## General Rules
 *   Your exercises must be done in the exact directories specified.
 *   You must strictly name your files as requested.
