@@ -1,4 +1,4 @@
-# 🌳 44 Architecture (The "Tri-Force" Approach)
+# 🌳 777 Architecture (The "Tri-Force" Approach)
 
 To build a truly innovative from-scratch inference engine (inspired by Karpathy's `llm.c` and `nanoGPT`), we are utilizing a hybrid approach combining the elegance of mathematical research with bare-metal performance. 
 
@@ -16,7 +16,7 @@ This repository is designed as an **End-to-End Educational Journey** for AI engi
    - This is where the magic happens. We will write our custom tensors, memory management, and attention kernels in raw Mojo. This gives us C/Rust-level performance with Pythonic syntax.
 
 ## The Evolutionary Roadmap (Growing the Forest)
-To deeply understand the architecture, we will build from the simplest concepts up to the 44 engine, implementing each phase across our "Tri-Force" stack (JAX -> MAX -> Mojo). **Each phase is designed as a self-guided, test-driven programming challenge (inspired by the trials of Fangorn Forest).**
+To deeply understand the architecture, we will build from the simplest concepts up to the 777 engine, implementing each phase across our "Tri-Force" stack (JAX -> MAX -> Mojo). **Each phase is designed as a self-guided, test-driven programming challenge (inspired by the trials of Fangorn Forest).**
 
 1. **Phase 00: The Seed (Embedding Layer) 🌱**
    - *Challenge:* Given a token ID, retrieve its mathematical vector. 

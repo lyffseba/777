@@ -1,8 +1,8 @@
-# 🌳 44: The Awakening
+# 🌳 777: The Awakening
 
 Welcome, traveler. 
 
-If you are reading this, you have decided to look behind the curtain of modern Artificial Intelligence. **44** is a standalone, ultra-secure, from-scratch educational framework. It is designed to take you from absolute zero to mastering the bare-metal architecture of modern language models (like GPT and LLaMA).
+If you are reading this, you have decided to look behind the curtain of modern Artificial Intelligence. **777** is the master repository—a standalone, ultra-secure, from-scratch educational framework that merges the wisdom of MLX, MAX, JAX, and bare-metal Mojo. It is designed to take you from absolute zero to mastering the bare-metal architecture of modern language models (like GPT, LLaMA, and Gemma).
 
 We are going to wake up the ancient language models one by one, like the Ents of Middle-earth, mastering their secrets from the ground up.
 
@@ -58,9 +58,9 @@ cd max_env/phases/C00_The_Seed
 
 ---
 
-## The 44 Universe
-This repository (`44`) is the **Core Educational Engine**. In the future, this universe will expand into:
-1. **`44-cli`:** A standalone terminal RPG game where you play through the modules to "wake the Ents".
-2. **`44-pi-mod`:** A standalone extension for Pi (the coding agent) to interact with these models locally.
+## The 777 Universe
+This repository (`777`) is the **Master Core Educational Engine**. In the future, this universe will expand into:
+1. **`777-cli`:** A standalone terminal RPG game where you play through the modules to "wake the Ents".
+2. **`777-pi-mod`:** A standalone extension for Pi (the coding agent) to interact with these models locally.
 
 Good luck. The forest awaits.
