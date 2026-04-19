@@ -47,8 +47,10 @@ Your journey takes place inside the `max_env/phases/` directory. Start at Chapte
 
 *   👉 [**C00 - The Seed**](max_env/phases/C00_The_Seed/SUBJECT.md): Tensors, memory access, and the Embedding Layer.
 *   👉 [**C01 - The Enting**](max_env/phases/C01_The_Enting/SUBJECT.md): Logits, Softmax, and probabilities.
-*   *C02 - The Sapling (Coming Soon): Self-Attention.*
-*   *C03 - The Treebeard (Coming Soon): The full GPT-2 architecture.*
+*   👉 [**C02 - The Lexicon**](max_env/phases/C02_The_Lexicon/SUBJECT.md): Tokenization, Data Preparation, and the Atomic GPT.
+*   *C03 - The Sapling (Coming Soon): Self-Attention.*
+*   *C04 - The Treebeard (Coming Soon): The full GPT-2 architecture.*
+*   👉 [**C05 - The Entmoot**](max_env/phases/C05_The_Entmoot/SUBJECT.md): Deploying Gemma models in Production with MAX.
 
 ### How to test your code
 Whenever you think you have solved a module, open your terminal and run the grader:
