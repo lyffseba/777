@@ -1,7 +1,7 @@
 # Environments
 .pixi/
 .venv/
-max_env/
+max_env/.pixi/
 
 # Mac/OS
 .DS_Store
