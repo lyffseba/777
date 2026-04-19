@@ -6,15 +6,15 @@ def main():
     # Row 1 (Token 1): [-0.1, -0.2, -0.3, -0.4]
     # Row 2 (Token 2): [ 0.5, -0.2,  0.8,  0.1]
     
-    # TODO: Initialize the weights matrix using jnp.array
-    weights = None 
+    weights = jnp.array([
+        [ 0.1,  0.2,  0.3,  0.4],
+        [-0.1, -0.2, -0.3, -0.4],
+        [ 0.5, -0.2,  0.8,  0.1]
+    ])
     
-    # TODO: Define the token ID we want to look up
-    token_id = None
+    token_id = 2
     
-    # TODO: Use JAX to extract the vector for token_id
-    # Hint: jnp.take or simple indexing
-    output_vector = None
+    output_vector = weights[token_id]
     
     print(output_vector)
 
